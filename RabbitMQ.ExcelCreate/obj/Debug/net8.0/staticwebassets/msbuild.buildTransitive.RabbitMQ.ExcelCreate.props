@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RabbitMQ.ExcelCreate.props" />
+</Project>
